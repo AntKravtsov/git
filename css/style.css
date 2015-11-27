@@ -1,0 +1,34 @@
+
+  
+
+
+.container {
+	width: 1920px;
+	margin: 0 auto;
+	background-color: white;
+    
+}
+
+.header {
+	text-align: center;
+	color: blue;
+}
+.main_content {
+	text-align: center;
+	margin: 0 auto;
+	
+	color: violet;
+}
+
+.main_text {
+	color: green;
+	text-align: center;
+}
+.side_bar {
+	width: 100%;
+	list-style-type: none;
+	padding: 0 auto;
+	margin: 0 auto;
+	display: block;
+	float: left;
+}
